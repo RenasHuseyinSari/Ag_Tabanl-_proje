@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #1F2937;
+    background-color: #d2e0f7;
+}
+h1, h2 {
+    color: #0d51e3;
+}
+
+a {
+    color: #0cead0;
+}
+.unlem{
+    background-color: rgb(29, 219, 143);
+    color: black;
+
+}
+a:hover {
+    color: #d80580;
+}
+input[type="text"]{
+    text-align: left;
+}
